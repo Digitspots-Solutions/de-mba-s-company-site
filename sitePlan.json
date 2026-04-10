@@ -1,0 +1,42 @@
+{
+  "businessName": "De Mba's Company",
+  "industry": "Trading",
+  "tone": "professional and trustworthy",
+  "tagline": "Your Trusted Trading Partner in Aba",
+  "sections": [
+    {
+      "id": "hero",
+      "name": "Hero",
+      "copy": "Welcome to De Mba's Company – your reliable trading partner in Aba South. We connect buyers and sellers with quality products and exceptional service. Experience seamless trading solutions tailored to meet your business needs.",
+      "imagePrompt": "A vibrant Nigerian trading warehouse in Aba, stacked with organized goods and products, busy marketplace atmosphere with people conducting business, natural daylight streaming through large windows, professional and industrious environment, photorealistic, high quality",
+      "layout": "centered"
+    },
+    {
+      "id": "about",
+      "name": "About Us",
+      "copy": "De Mba's Company is a leading trading business based in Aba South, Nigeria. We specialize in connecting businesses and individuals with quality products across various categories. Located at 3 Dimiri Street off Umunwoke, we have built a reputation for reliability, competitive pricing, and customer satisfaction. Our extensive network and commitment to excellence make us the preferred choice for traders throughout Aba and beyond. We understand the Nigerian market and deliver value with every transaction.",
+      "imagePrompt": "Professional Nigerian business office interior in Aba, modern workspace with trading documents and computers, team members in business attire collaborating, warm lighting, organized shelves with product samples, authentic African business environment, photorealistic",
+      "layout": "split"
+    },
+    {
+      "id": "services",
+      "name": "Our Services",
+      "copy": "**Product Trading & Supply**\nWe source and supply quality products across multiple categories to meet your business and personal needs. Our extensive supplier network ensures competitive prices and reliable availability.\n\n**Bulk Orders & Distribution**\nSpecializing in bulk trading for businesses, we handle large orders with efficiency and ensure timely delivery across Aba and surrounding areas.\n\n**Market Intelligence**\nGet access to current market prices, product availability, and trading trends to make informed purchasing decisions.\n\n**Business Partnerships**\nWe collaborate with businesses to create mutually beneficial trading relationships that drive growth and profitability.",
+      "imagePrompt": "Nigerian traders examining quality products in a well-organized warehouse, diverse inventory displayed professionally, workers coordinating logistics, delivery trucks in background, bustling commercial activity in Aba, bright natural lighting, photorealistic detail",
+      "layout": "grid"
+    },
+    {
+      "id": "contact",
+      "name": "Contact Us",
+      "copy": "Ready to start trading with us? Get in touch today and discover how De Mba's Company can meet your trading needs. We're conveniently located in Aba South and always ready to serve you.\n\n**Visit Our Office:**\n3 Dimiri Street off Umunwoke\nAba South, Abia State\nNigeria\n\n**Call or WhatsApp:**\n+234 703 374 8786\n\n**Business Hours:**\nMonday – Friday: 8:00 AM – 6:00 PM\nSaturday: 9:00 AM – 4:00 PM\n\nFor urgent inquiries, contact us via WhatsApp for faster response.",
+      "imagePrompt": "Professional Nigerian business storefront in Aba, welcoming entrance with clear signage, customers entering and leaving, clean organized retail space visible through windows, busy commercial street scene, tropical afternoon lighting, photorealistic Nigerian urban setting",
+      "layout": "centered"
+    }
+  ],
+  "contact": {
+    "phone": "+234 703 374 8786",
+    "email": "",
+    "address": "3 Dimiri Street off Umunwoke, Aba South, Abia State, Nigeria",
+    "whatsapp": "https://wa.me/2347033748786"
+  }
+}
